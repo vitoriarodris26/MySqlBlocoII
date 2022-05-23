@@ -1,4 +1,4 @@
-CREATE DATABASE bd_ecommerce;    /*Crie um banco de dados para um e-commerce,*/
+CREATE DATABASE bd_ecommerce;    /*Crie um banco de dados para um e-commerce*/
   USE bd_ecommerce;
   
 
