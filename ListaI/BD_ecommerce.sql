@@ -1,18 +1,7 @@
 CREATE DATABASE bd_ecommerce;    /*Crie um banco de dados para um e-commerce,*/
   USE bd_ecommerce;
   
-  /*
-  Crie uma tabela de produtos e determine 5 atributos relevantes dos produtos para se t
-  rabalhar com o serviço deste e-commerce.
 
-  1 - id
-  2- nome
-  3 - idade 
-  4 - salario
-  5 - dt_nasc 
-  
-
-  */
   
   CREATE TABLE tb_produto(
   
